@@ -45,4 +45,15 @@ A few guidelines for this part:
 * Your exploration of the data does not have to be strictly about credit risk or even finance. If you find something interesting, we’d like to know about it.
 
 
+# How to Run : 
 
+Please make sure you run the docker container first before opening the notebook
+Type : docker-compose up pgsql from the source folder
+
+Next please open the Paidy.ipynb IPython notebook for better clarity of code
+
+Press Shift and Enter to run the cells
+
+I have used Plotly for plotting, and it is very resource extensive. So please clear the output of all cells before running visualizations, else if machine is not powerful it might hang.
+
+In case of any difficukt please reach out to me.
